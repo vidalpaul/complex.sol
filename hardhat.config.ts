@@ -1,3 +1,4 @@
+import "@nomicfoundation/hardhat-foundry";
 import "hardhat-deploy";
 import "@nomiclabs/hardhat-waffle";
 import "solidity-docgen";
